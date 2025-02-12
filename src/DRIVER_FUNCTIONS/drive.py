@@ -1,11 +1,4 @@
 
-'''from MAIN_GB.main1 import *'''
-
-'''def onevent_controller_1axis2Changed_0():
-    global message1, forward_move, Back_move, Stop, turn_right, turn, calibrate, stop_initialize, Auto_Stop, turn_left, start_auto, intake_forward, intake_backward, DOon, LB, DOon2, Blue, Red, Intake_Control, Intake_running, myVariable, volocity, Right_Axis, Left_Axis, IntakeStake, Degree, pi, movement, distance1, time1, rot, turn1, LadyBrown_Up, LadyBrown_score, LadyBrown, Right_turn, Left_turn, DriveState, start, Next, dos, tog, error, output, Kp, Ki, Kd, Dellay, Distance_travled, imput, Proportional, integral, derivitive, direction, Previus_error, AutoSelect, X_Start, Y_Start, Y_End, X_End, Angle, Distnce2, Distance2, Turn_Angle, remote_control_code_enabled, vexcode_brain_precision, vexcode_console_precision, vexcode_controller_1_precision
-    # CONTROLLER jOYSTICK
-    Right_Axis = controller_1.axis2.position()'''
-
 def onevent_controller_1axis2Changed_0():
     global Right_Axis, dead_zone_range
     dead_zone_range = 10  # Adjust this value to set the dead zone range

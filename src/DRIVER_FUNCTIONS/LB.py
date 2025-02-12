@@ -1,5 +1,4 @@
 
-'''from MAIN_GB.main1 import *'''
 
 
 def ondriver_drivercontrol_4():

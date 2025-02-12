@@ -1,5 +1,4 @@
 
-from MAIN_GB.main1 import *
 # Clear the screen and set pen color
 brain.screen.clear_screen()
 brain.screen.set_pen_color(Color.WHITE)

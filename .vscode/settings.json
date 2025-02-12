@@ -1,5 +1,8 @@
 {
 	"python.analysis.stubPath": "/Users/jaybot/Library/Application Support/Code/User/globalStorage/vexrobotics.vexcode/sdk/python/V5/V5_1_0_1_25/vexv5/stubs",
 	"python.analysis.diagnosticMode": "workspace",
-	"python.analysis.typeCheckingMode": "basic"
+	"python.analysis.typeCheckingMode": "basic",
+	"problems.showCurrentInStatus": false,
+	"problems.visibility": true,
+	"problems.defaultViewMode": "tree"
 }
